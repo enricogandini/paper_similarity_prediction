@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+__pycache__
+
+#A SQLite database used locally for testing.
+answers.db

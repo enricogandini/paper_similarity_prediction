@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser --MappingKernelManager.cull_interval=300 --MappingKernelManager.cull_idle_timeout=660 --MappingKernelManager.cull_connected=True survey.ipynb

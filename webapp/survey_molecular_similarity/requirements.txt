@@ -1,0 +1,11 @@
+#python==3.7.10 #Heroku needs Python version to be specified in `runtime.txt`
+#pip==20.3.3 #pip version is automatically selected by Heroku
+#numpy==1.19.5 #Do not specify NumPy version with Heroku: it would break MDAnalysis
+sqlalchemy==1.4.2
+psycopg2==2.8.6
+ipywidgets==7.6.3
+voila==0.2.6
+jupyter_server==1.5.0
+nglview==2.7.7
+MDAnalysis==1.0.0
+markdown
